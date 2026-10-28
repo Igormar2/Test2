@@ -12,7 +12,7 @@
       + Sugestões Acionáveis do Conteúdo Real Cadastrado no Site).
    ══════════════════════════════════════════════════════════════════════════ */
 
-const GEMINI_API_KEY = "AQ.Ab8RN6J7qDSpHAYBtOarPwo0-cGhmYS1JCJ8OOpx2PAipWQyhw";
+const GEMINI_API_KEY = "AQ.Ab8RN6IXYH6IpKFfjWFVwMGU2_EHCGl5rL829AFli1BI66ajNA";
 const GEMINI_MODELS = ["gemini-3.5-flash-lite", "gemini-3.1-flash-lite", "gemini-3.5-flash", "gemini-3.7-flash"];
 
 function extractJson(raw) {
